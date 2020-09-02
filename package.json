@@ -1,6 +1,7 @@
 {
   "name": "ngx-tiny-slider-wrapper",
   "version": "0.0.8",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
